@@ -93,3 +93,5 @@ I projektet har jag arbetat med att koppla samman ett C#-program med en relation
 Jag har skapat en databas med tabeller och relationer samt ett konsolprogram som använder databasen för att hantera kunder, hotellrum och bokningar.
 
 Projektet har gett mig praktisk erfarenhet av SQL, relationsdatabaser och databasanslutning i C#.
+
+OBS- Skulle det på något konstigt sätt inte tillåta ett annat lösen, så är det chcLxa4E
